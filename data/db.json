@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "firstName": "Rabezanany",
+      "lastName": "Be Loha",
+      "age": 22,
+      "role": "Front",
+      "id": 1
+    },
+    {
+      "firstName": "Rabeson",
+      "lastName": "Hery",
+      "age": 41,
+      "role": "back",
+      "id": 2
+    },
+    {
+      "firstName": "Koto",
+      "lastName": "kely",
+      "age": 22,
+      "role": "devops",
+      "id": 3
+    }
+  ]
+}
